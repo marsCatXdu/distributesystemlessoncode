@@ -1,0 +1,6 @@
+/.vscode
+/.idea
+*.log
+*.class
+Thumbs.db
+$RECYCLE.BIN/
